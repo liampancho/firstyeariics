@@ -19,7 +19,7 @@ public class Infinite
             continue;
            case"yes":
             continue;
-           default: System.out.print("PUTANGINAMO"); 
+           default: System.out.print("Thank you for wasting your time with us!"); 
           }
           break;
         }
